@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+    font-family: TH SarabunPSK;
+    text-align: center;
+}
+h2 {
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+}
+h3 {
+    color: darkblue;
+    font-size: 20px;
+    font-family: TH SarabunPSK;
+    text-align: center;
+}
